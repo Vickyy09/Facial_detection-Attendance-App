@@ -18,6 +18,6 @@ To get started with my React Real-time News website, follow these steps:
     
 5. start the project.
      ```bash
-     npx run android
+     npm start
      ```
 and change the API key with your API key.
