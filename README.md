@@ -1,5 +1,5 @@
 ## Installation
-To get started with my React Real-time News website, follow these steps:
+To get started with my "Facial Detection Attendance APP", follow these steps:
 
 1. Clone this repository to your local machine using Git.
      ```bash
@@ -20,4 +20,4 @@ To get started with my React Real-time News website, follow these steps:
      ```bash
      npm start
      ```
-and change the API key with your API key.
+
