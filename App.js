@@ -1,8 +1,6 @@
-// Example of Splash, Login and Sign Up in React Native
-// https://aboutreact.com/react-native-login-and-signup/
+
 import 'react-native-gesture-handler';
 
-// Import React and Component
 import React from 'react';
 
 // Import Navigators from React Navigation
@@ -28,27 +26,27 @@ const Auth = () => {
       <Stack.Screen
         name="LoginScreen"
         component={LoginScreen}
-        // options={{headerShown: false}}
+        
       />
       <Stack.Screen
         name="HomeScreen"
         component={HomeScreen}
-        // options={{headerShown: false}}
+        
       />
       <Stack.Screen
         name="Attendence"
         component={Attendence}
-        // options={{headerShown: false}}
+        
       />
       <Stack.Screen
         name="SeeAttendence"
         component={SeeAttendence}
-        // options={{headerShown: false}}
+       
       />
       <Stack.Screen
         name="Teacherlogin"
         component={Teacherlogin}
-        // options={{headerShown: false}}
+        
       />
       <Stack.Screen
         name="RegisterScreen"
